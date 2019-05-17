@@ -1,39 +1,69 @@
 {
-  "filmes": [
+  "campeoes": [
     {
-      "titulo":"Pulp Fiction",
-      "genero": "Açao",
-      "ano": 1994
+      "nome":"Galio",
+      "classe": "Warden",
+      "dificuldade": 2
     },
     {
-      "titulo":"Solo: A Star Wars History",
-      "genero": "Aventura",
-      "ano": 2018
+      "nome":"Janna",
+      "classe": "Enchanter",
+      "dificuldade": 1
     },
     {
-      "titulo":"Bird Box",
-      "genero": "Drama",
-      "ano": 2018
+      "nome":"Lissandra",
+      "classe": "Burst Mage",
+      "dificuldade": 1
     },
     {
-      "titulo":"Get Out",
-      "genero": "Terror",
-      "ano": 2017
+      "nome":"Swain",
+      "classe": "Battlemage",
+      "dificuldade": 2
     },
     {
-      "titulo":"Spotlight",
-      "genero": "Crime",
-      "ano": 2015
+      "nome":"Tristana",
+      "classe": "Marksman",
+      "dificuldade": 1
     },
     {
-      "titulo":"Unbreakable",
-      "genero": "Drama",
-      "ano": 2000
+      "nome":"Evelynn",
+      "classe": "Assassin",
+      "dificuldade": 2
     },
     {
-      "titulo":"Frozen",
-      "genero": "Aventura",
-      "ano": 2013
+      "nome":"Morgana",
+      "classe": "Catcher",
+      "dificuldade": 1
+    },
+    {
+      "nome":"Fiora",
+      "classe": "Skirmisher",
+      "dificuldade": 3
+    },
+    {
+      "nome":"Xerath",
+      "classe": "Artillery Mage",
+      "dificuldade": 2
+    },
+    {
+      "nome":"Leona",
+      "classe": "Vanguard",
+      "dificuldade": 1
+    },
+    {
+      "nome":"Azir",
+      "classe": "Specialist",
+      "dificuldade": 3
+    },
+    {
+      "nome":"Irelia",
+      "classe": "Diver",
+      "dificuldade": 3
+    },
+    {
+      "nome":"Aatrox",
+      "classe": "Juggernaut",
+      "dificuldade": 3
     }
   ]
 }
