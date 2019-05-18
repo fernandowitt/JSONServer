@@ -3,67 +3,80 @@
     {
       "nome":"Galio",
       "classe": "Warden",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "imagem": "https://ddragon.leagueoflegends.com/cdn/9.10.1/img/champion/Galio.png"
     },
     {
       "nome":"Janna",
       "classe": "Enchanter",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "imagem": "https://ddragon.leagueoflegends.com/cdn/9.10.1/img/champion/Janna.png"
     },
     {
       "nome":"Lissandra",
       "classe": "Burst Mage",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "imagem": "https://ddragon.leagueoflegends.com/cdn/9.10.1/img/champion/Lissandra.png"
     },
     {
       "nome":"Swain",
       "classe": "Battlemage",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "imagem": "https://ddragon.leagueoflegends.com/cdn/9.10.1/img/champion/Swain.png"
     },
     {
       "nome":"Tristana",
       "classe": "Marksman",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "imagem": "https://ddragon.leagueoflegends.com/cdn/9.10.1/img/champion/Tristana.png"
     },
     {
       "nome":"Evelynn",
       "classe": "Assassin",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "imagem": "https://ddragon.leagueoflegends.com/cdn/9.10.1/img/champion/Evelynn.png"
     },
     {
       "nome":"Morgana",
       "classe": "Catcher",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "imagem": "https://ddragon.leagueoflegends.com/cdn/9.10.1/img/champion/Morgana.png"
     },
     {
       "nome":"Fiora",
       "classe": "Skirmisher",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "imagem": "https://ddragon.leagueoflegends.com/cdn/9.10.1/img/champion/Fiora.png"
     },
     {
       "nome":"Xerath",
       "classe": "Artillery Mage",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "imagem": "https://ddragon.leagueoflegends.com/cdn/9.10.1/img/champion/Xerath.png"
     },
     {
       "nome":"Leona",
       "classe": "Vanguard",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "imagem": "https://ddragon.leagueoflegends.com/cdn/9.10.1/img/champion/Leona.png"
     },
     {
       "nome":"Azir",
       "classe": "Specialist",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "imagem": "https://ddragon.leagueoflegends.com/cdn/9.10.1/img/champion/Azir.png"
     },
     {
       "nome":"Irelia",
       "classe": "Diver",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "imagem": "https://ddragon.leagueoflegends.com/cdn/9.10.1/img/champion/Irelia.png"
     },
     {
       "nome":"Illaoi",
       "classe": "Juggernaut",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "imagem": "https://ddragon.leagueoflegends.com/cdn/9.10.1/img/champion/Illaoi.png"
     }
   ]
 }
